@@ -37,7 +37,6 @@ public class MasterPlugin extends Plugin
 	{
 		registerModule("MultiLoginBlocker", "au.com.addstar.bpandora.modules.MultiLoginBlocker");
 		registerModule("Restarting", "au.com.addstar.bpandora.modules.Restarting");
-		registerModule("ChatControlMirror", "au.com.addstar.bpandora.modules.ChatControlMirror");
 	}
 	
 	@Override
