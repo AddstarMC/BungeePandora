@@ -35,7 +35,6 @@ public class MasterPlugin extends Plugin
 	
 	private void registerModules()
 	{
-		registerModule("MultiLoginBlocker", "au.com.addstar.bpandora.modules.MultiLoginBlocker");
 		registerModule("Restarting", "au.com.addstar.bpandora.modules.Restarting");
 	}
 	
